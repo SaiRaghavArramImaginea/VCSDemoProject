@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_FILETARGET>
-        <au_activeVersion><![CDATA[1]]></au_activeVersion>
-        <au_filepath><![CDATA[VCSDemoProject]]></au_filepath>
-        <au_fileName><![CDATA[VCSDemoProject.xml]]></au_fileName>
-        <au_id><![CDATA[192168000005160795559793400004]]></au_id>
-        <au_groupOwner><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_groupOwner>
-        <au_revision><![CDATA[3f5d25f46180bae600dd8a6dff94ea33e9c3bf55]]></au_revision>
-        <au_version><![CDATA[1]]></au_version>
+        <au_entityName><![CDATA[VCSDemoProject1]]></au_entityName>
         <au_userOwner><![CDATA[IndigoUser:127000000001107055536473900001]]></au_userOwner>
-        <au_synchronized><![CDATA[1]]></au_synchronized>
-        <au_description><![CDATA[VCSDemoProject]]></au_description>
-        <au_filePattern><![CDATA[0|0|Y]]></au_filePattern>
-        <au_comments><![CDATA[null]]></au_comments>
-        <au_permissionMask><![CDATA[750]]></au_permissionMask>
-        <au_entityName><![CDATA[VCSDemoProject]]></au_entityName>
-        <au_previousVersion><![CDATA[]]></au_previousVersion>
-        <au_projectOwner><![CDATA[Project:192168000005160795557168500002]]></au_projectOwner>
-        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
-        <au_creationDate><![CDATA[2020-12-14 19:49:58.0]]></au_creationDate>
         <au_autoFolderCreation><![CDATA[None]]></au_autoFolderCreation>
-        <au_modifiedDate><![CDATA[2020-12-14 19:49:58.0]]></au_modifiedDate>
+        <au_projectOwner><![CDATA[Project:192168000005160795557168500002]]></au_projectOwner>
+        <au_version><![CDATA[1]]></au_version>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_id><![CDATA[192168000005160795588916900002]]></au_id>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_modifiedDate><![CDATA[2020-12-14 19:55:21.0]]></au_modifiedDate>
+        <au_filePattern><![CDATA[0|0|Y]]></au_filePattern>
+        <au_filepath><![CDATA[VCSDemoProject1]]></au_filepath>
+        <au_fileName><![CDATA[VCSDemoProject1]]></au_fileName>
+        <au_groupOwner><![CDATA[IndigoGroup:127000000001107055548721600002]]></au_groupOwner>
+        <au_activeVersion><![CDATA[1]]></au_activeVersion>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_synchronized><![CDATA[0]]></au_synchronized>
+        <au_description><![CDATA[VCSDemoProject1]]></au_description>
+        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
+        <au_permissionMask><![CDATA[750]]></au_permissionMask>
+        <au_creationDate><![CDATA[2020-12-14 19:54:49.0]]></au_creationDate>
     </AU_FILETARGET>
     <columnInfo dbtype="4">
         <column name="au_id" type="12"/>
